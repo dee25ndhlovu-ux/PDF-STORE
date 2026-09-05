@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sample-book",
+    "title": "Sample Book",
+    "description": "A three-page placeholder so you can test checkout and delivery.",
+    "price": 1,
+    "file": "sample-book.pdf"
+  }
+]
